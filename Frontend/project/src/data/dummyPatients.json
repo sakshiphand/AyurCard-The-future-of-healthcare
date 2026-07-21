@@ -1,0 +1,202 @@
+[
+  {
+    "ayurCardId": "AYR001234",
+    "name": "Rajesh Kumar",
+    "aadhaar": "123412341234",
+    "symptoms": "Headache, Fever",
+    "disease": "Migraine",
+    "treatment": "Sumatriptan, Rest",
+    "status": "completed",
+    "fees": 1500,
+    "_id": "1",
+    "phone": "+91-9876543210",
+    "bloodType": "A+",
+    "lastVisit": "2024-01-15",
+    "records": [
+      {
+        "symptoms": "Headache, Fever",
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "ayurCardId": "AYR001235",
+    "name": "Priya Sharma",
+    "aadhaar": "567856785678",
+    "symptoms": "Cough, Sore throat",
+    "disease": "Upper Respiratory Infection",
+    "treatment": "Antibiotics, Cough syrup",
+    "status": "pending",
+    "fees": 800,
+    "_id": "2",
+    "phone": "+91-9876543211",
+    "bloodType": "B+",
+    "lastVisit": "2024-01-18",
+    "records": [
+      {
+        "symptoms": "Cough, Sore throat",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ayurCardId": "AYR001236",
+    "name": "Amit Patel",
+    "aadhaar": "111122223333",
+    "symptoms": "Stomach pain, Nausea",
+    "disease": "Gastritis",
+    "treatment": "Antacids, Dietary changes",
+    "status": "completed",
+    "fees": 1200,
+    "_id": "3",
+    "phone": "+91-9876543212",
+    "bloodType": "O+",
+    "lastVisit": "2024-01-20",
+    "records": [
+      {
+        "symptoms": "Stomach pain, Nausea",
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "ayurCardId": "AYR001237",
+    "name": "Sneha Reddy",
+    "aadhaar": "999988887777",
+    "symptoms": "Joint pain, Stiffness",
+    "disease": "Arthritis",
+    "treatment": "NSAIDs, Physiotherapy",
+    "status": "ongoing",
+    "fees": 2000,
+    "_id": "4",
+    "phone": "+91-9876543213",
+    "bloodType": "AB+",
+    "lastVisit": "2024-01-16",
+    "records": [
+      {
+        "symptoms": "Joint pain, Stiffness",
+        "status": "ongoing"
+      }
+    ]
+  },
+  {
+    "ayurCardId": "AYR001238",
+    "name": "Vikram Singh",
+    "aadhaar": "222233334444",
+    "symptoms": "Chest pain, Shortness of breath",
+    "disease": "Hypertension",
+    "treatment": "ACE inhibitors, Lifestyle changes",
+    "status": "completed",
+    "fees": 2500,
+    "_id": "5",
+    "phone": "+91-9876543214",
+    "bloodType": "A-",
+    "lastVisit": "2024-01-14",
+    "records": [
+      {
+        "symptoms": "Chest pain, Shortness of breath",
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "ayurCardId": "AYR001239",
+    "name": "Anita Gupta",
+    "aadhaar": "333344445555",
+    "symptoms": "Skin rash, Itching",
+    "disease": "Eczema",
+    "treatment": "Topical steroids, Moisturizers",
+    "status": "pending",
+    "fees": 900,
+    "_id": "6",
+    "phone": "+91-9876543215",
+    "bloodType": "B-",
+    "lastVisit": "2024-01-19",
+    "records": [
+      {
+        "symptoms": "Skin rash, Itching",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ayurCardId": "AYR001240",
+    "name": "Rahul Joshi",
+    "aadhaar": "444455556666",
+    "symptoms": "Back pain, Muscle spasms",
+    "disease": "Lower Back Strain",
+    "treatment": "Pain relievers, Physical therapy",
+    "status": "ongoing",
+    "fees": 1800,
+    "_id": "7",
+    "phone": "+91-9876543216",
+    "bloodType": "O-",
+    "lastVisit": "2024-01-17",
+    "records": [
+      {
+        "symptoms": "Back pain, Muscle spasms",
+        "status": "ongoing"
+      }
+    ]
+  },
+  {
+    "ayurCardId": "AYR001241",
+    "name": "Kavita Mehta",
+    "aadhaar": "555566667777",
+    "symptoms": "Dizziness, Fatigue",
+    "disease": "Anemia",
+    "treatment": "Iron supplements, Dietary changes",
+    "status": "completed",
+    "fees": 1100,
+    "_id": "8",
+    "phone": "+91-9876543217",
+    "bloodType": "A+",
+    "lastVisit": "2024-01-13",
+    "records": [
+      {
+        "symptoms": "Dizziness, Fatigue",
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "ayurCardId": "AYR001242",
+    "name": "Suresh Agarwal",
+    "aadhaar": "666677778888",
+    "symptoms": "Frequent urination, Excessive thirst",
+    "disease": "Diabetes Type 2",
+    "treatment": "Metformin, Diet control",
+    "status": "ongoing",
+    "fees": 3000,
+    "_id": "9",
+    "phone": "+91-9876543218",
+    "bloodType": "B+",
+    "lastVisit": "2024-01-21",
+    "records": [
+      {
+        "symptoms": "Frequent urination, Excessive thirst",
+        "status": "ongoing"
+      }
+    ]
+  },
+  {
+    "ayurCardId": "AYR001243",
+    "name": "Meera Iyer",
+    "aadhaar": "777788889999",
+    "symptoms": "Insomnia, Anxiety",
+    "disease": "Anxiety Disorder",
+    "treatment": "Counseling, Mild sedatives",
+    "status": "pending",
+    "fees": 1600,
+    "_id": "10",
+    "phone": "+91-9876543219",
+    "bloodType": "AB-",
+    "lastVisit": "2024-01-22",
+    "records": [
+      {
+        "symptoms": "Insomnia, Anxiety",
+        "status": "pending"
+      }
+    ]
+  }
+]

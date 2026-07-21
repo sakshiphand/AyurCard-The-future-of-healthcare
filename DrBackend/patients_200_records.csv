@@ -1,0 +1,201 @@
+Patient_Name,Symptoms,Disease,Status
+Vikram Joshi,Headache,Migraine,Under Treatment
+Divya Menon,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Deepika Singh,Joint Pain,Arthritis,Chronic Care
+Pallavi Patil,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Ayesha Khan,Severe Headache,Migraine,Observation
+Pallavi Patil,Back Pain,Arthritis,Under Treatment
+Isha Jain,Headache,Migraine,Under Treatment
+Anjali Gupta,Joint Pain,Arthritis,Chronic Care
+Pooja Sharma,Abdominal Pain,Acute Appendicitis,Emergency
+Varun Kapoor,Fever,Pneumonia,Admitted
+Divya Menon,Severe Headache,Migraine,Observation
+Vikram Joshi,Joint Pain,Arthritis,Chronic Care
+Harsh Vardhan,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Meera Iyer,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Manish Yadav,Fever,Pneumonia,Admitted
+Riya Shah,Joint Pain,Arthritis,Chronic Care
+Rahul Singh,Fever,Pneumonia,Admitted
+Nikhil Gupta,Joint Pain,Arthritis,Chronic Care
+Divya Menon,Severe Headache,Migraine,Observation
+Meera Iyer,Back Pain,Arthritis,Under Treatment
+Sanjay Verma,Severe Headache,Migraine,Observation
+Meera Iyer,Back Pain,Arthritis,Under Treatment
+Riya Shah,Abdominal Pain,Acute Appendicitis,Emergency
+Siddharth Jain,Abdominal Pain,Acute Appendicitis,Emergency
+Aditya Nair,Severe Headache,Migraine,Observation
+Karan Mehta,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Priya Patel,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Nikhil Gupta,Fever,Pneumonia,Admitted
+Pooja Sharma,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Tarun Bansal,Back Pain,Arthritis,Under Treatment
+Manish Yadav,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Isha Jain,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Rahul Singh,Abdominal Pain,Acute Appendicitis,Emergency
+Neha Verma,Back Pain,Arthritis,Under Treatment
+Priya Patel,Fever,Pneumonia,Admitted
+Neha Verma,Abdominal Pain,Acute Appendicitis,Emergency
+Neha Verma,Joint Pain,Arthritis,Chronic Care
+Riya Shah,Severe Headache,Migraine,Observation
+Amit Sharma,Fever,Pneumonia,Admitted
+Deepika Singh,Back Pain,Arthritis,Under Treatment
+Pallavi Patil,Fever,Pneumonia,Admitted
+Rohit Patil,Headache,Migraine,Under Treatment
+Meera Iyer,Fever,Pneumonia,Admitted
+Varun Kapoor,Severe Headache,Migraine,Observation
+Rahul Singh,Headache,Migraine,Under Treatment
+Rahul Singh,Joint Pain,Arthritis,Chronic Care
+Deepika Singh,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Neha Verma,Headache,Migraine,Under Treatment
+Pallavi Patil,Fever,Pneumonia,Admitted
+Harsh Vardhan,Headache,Migraine,Under Treatment
+Harsh Vardhan,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Nikhil Gupta,Abdominal Pain,Acute Appendicitis,Emergency
+Tarun Bansal,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Rohit Patil,Joint Pain,Arthritis,Chronic Care
+Sneha Kulkarni,Abdominal Pain,Acute Appendicitis,Emergency
+Vikram Joshi,Headache,Migraine,Under Treatment
+Simran Kaur,Abdominal Pain,Acute Appendicitis,Emergency
+Karan Mehta,Fever,Pneumonia,Admitted
+Deepika Singh,Joint Pain,Arthritis,Chronic Care
+Priya Patel,Headache,Migraine,Under Treatment
+Rahul Singh,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Sneha Kulkarni,Back Pain,Arthritis,Under Treatment
+Divya Menon,Headache,Migraine,Under Treatment
+Pooja Sharma,Headache,Migraine,Under Treatment
+Deepika Singh,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Divya Menon,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Anjali Gupta,Severe Headache,Migraine,Observation
+Arjun Desai,Fever,Pneumonia,Admitted
+Karan Mehta,Headache,Migraine,Under Treatment
+Divya Menon,Joint Pain,Arthritis,Chronic Care
+Ritika Sinha,Back Pain,Arthritis,Under Treatment
+Neha Verma,Severe Headache,Migraine,Observation
+Kavya Reddy,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Simran Kaur,Fever,Pneumonia,Admitted
+Divya Menon,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Simran Kaur,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Rohit Patil,Fever,Pneumonia,Admitted
+Manish Yadav,Back Pain,Arthritis,Under Treatment
+Rahul Singh,Abdominal Pain,Acute Appendicitis,Emergency
+Karan Mehta,Abdominal Pain,Acute Appendicitis,Emergency
+Ritika Sinha,Fever,Pneumonia,Admitted
+Nikhil Gupta,Severe Headache,Migraine,Observation
+Rohit Patil,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Rohit Patil,Headache,Migraine,Under Treatment
+Neha Verma,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Deepika Singh,Headache,Migraine,Under Treatment
+Simran Kaur,Fever,Pneumonia,Admitted
+Aman Choudhary,Abdominal Pain,Acute Appendicitis,Emergency
+Neha Verma,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Meera Iyer,Fever,Pneumonia,Admitted
+Ritika Sinha,Back Pain,Arthritis,Under Treatment
+Pallavi Patil,Fever,Pneumonia,Admitted
+Pallavi Patil,Headache,Migraine,Under Treatment
+Tarun Bansal,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Siddharth Jain,Joint Pain,Arthritis,Chronic Care
+Nikhil Gupta,Headache,Migraine,Under Treatment
+Amit Sharma,Joint Pain,Arthritis,Chronic Care
+Riya Shah,Joint Pain,Arthritis,Chronic Care
+Karan Mehta,Joint Pain,Arthritis,Chronic Care
+Pallavi Patil,Severe Headache,Migraine,Observation
+Tarun Bansal,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Harsh Vardhan,Back Pain,Arthritis,Under Treatment
+Siddharth Jain,Fever,Pneumonia,Admitted
+Ritika Sinha,Abdominal Pain,Acute Appendicitis,Emergency
+Ritika Sinha,Severe Headache,Migraine,Observation
+Sneha Kulkarni,Abdominal Pain,Acute Appendicitis,Emergency
+Nikhil Gupta,Back Pain,Arthritis,Under Treatment
+Aditya Nair,Joint Pain,Arthritis,Chronic Care
+Deepika Singh,Joint Pain,Arthritis,Chronic Care
+Priya Patel,Joint Pain,Arthritis,Chronic Care
+Priya Patel,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Rahul Singh,Back Pain,Arthritis,Under Treatment
+Neha Verma,Fever,Pneumonia,Admitted
+Kavya Reddy,Severe Headache,Migraine,Observation
+Tarun Bansal,Abdominal Pain,Acute Appendicitis,Emergency
+Vikram Joshi,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Riya Shah,Fever,Pneumonia,Admitted
+Aditya Nair,Back Pain,Arthritis,Under Treatment
+Manish Yadav,Severe Headache,Migraine,Observation
+Sanjay Verma,Abdominal Pain,Acute Appendicitis,Emergency
+Nikhil Gupta,Fever,Pneumonia,Admitted
+Rohit Patil,Severe Headache,Migraine,Observation
+Siddharth Jain,Joint Pain,Arthritis,Chronic Care
+Amit Sharma,Fever,Pneumonia,Admitted
+Deepika Singh,Fever,Pneumonia,Admitted
+Ayesha Khan,Fever,Pneumonia,Admitted
+Kavya Reddy,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Rohit Patil,Abdominal Pain,Acute Appendicitis,Emergency
+Aditya Nair,Joint Pain,Arthritis,Chronic Care
+Sneha Kulkarni,Severe Headache,Migraine,Observation
+Arjun Desai,Headache,Migraine,Under Treatment
+Rohit Patil,Abdominal Pain,Acute Appendicitis,Emergency
+Simran Kaur,Back Pain,Arthritis,Under Treatment
+Arjun Desai,Abdominal Pain,Acute Appendicitis,Emergency
+Nikhil Gupta,Joint Pain,Arthritis,Chronic Care
+Neha Verma,Fever,Pneumonia,Admitted
+Priya Patel,Joint Pain,Arthritis,Chronic Care
+Amit Sharma,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Aditya Nair,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Pooja Sharma,Fever,Pneumonia,Admitted
+Isha Jain,Fever,Pneumonia,Admitted
+Aditya Nair,Back Pain,Arthritis,Under Treatment
+Tarun Bansal,Headache,Migraine,Under Treatment
+Karan Mehta,Headache,Migraine,Under Treatment
+Deepika Singh,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Deepika Singh,Headache,Migraine,Under Treatment
+Karan Mehta,Back Pain,Arthritis,Under Treatment
+Deepika Singh,Joint Pain,Arthritis,Chronic Care
+Isha Jain,Back Pain,Arthritis,Under Treatment
+Ayesha Khan,Headache,Migraine,Under Treatment
+Aman Choudhary,Severe Headache,Migraine,Observation
+Neha Verma,Headache,Migraine,Under Treatment
+Pallavi Patil,Joint Pain,Arthritis,Chronic Care
+Riya Shah,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Tarun Bansal,Fever,Pneumonia,Admitted
+Sneha Kulkarni,Joint Pain,Arthritis,Chronic Care
+Manish Yadav,Fever,Pneumonia,Admitted
+Riya Shah,Severe Headache,Migraine,Observation
+Riya Shah,Fever,Pneumonia,Admitted
+Kavya Reddy,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Kavya Reddy,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Anjali Gupta,Back Pain,Arthritis,Under Treatment
+Kavya Reddy,Headache,Migraine,Under Treatment
+Rahul Singh,Back Pain,Arthritis,Under Treatment
+Arjun Desai,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Isha Jain,Joint Pain,Arthritis,Chronic Care
+Rahul Singh,Joint Pain,Arthritis,Chronic Care
+Vikram Joshi,Severe Headache,Migraine,Observation
+Pooja Sharma,Severe Headache,Migraine,Observation
+Divya Menon,Joint Pain,Arthritis,Chronic Care
+Ritika Sinha,Back Pain,Arthritis,Under Treatment
+Rohit Patil,Back Pain,Arthritis,Under Treatment
+Rohit Patil,Headache,Migraine,Under Treatment
+Ayesha Khan,Headache,Migraine,Under Treatment
+Varun Kapoor,Fever,Pneumonia,Admitted
+Varun Kapoor,Severe Headache,Migraine,Observation
+Karan Mehta,Fever,Pneumonia,Admitted
+Karan Mehta,Back Pain,Arthritis,Under Treatment
+Amit Sharma,Joint Pain,Arthritis,Chronic Care
+Vikram Joshi,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Rahul Singh,Headache,Migraine,Under Treatment
+Ritika Sinha,Back Pain,Arthritis,Under Treatment
+Sanjay Verma,Fever,Pneumonia,Admitted
+Karan Mehta,Fever,Pneumonia,Admitted
+Harsh Vardhan,Back Pain,Arthritis,Under Treatment
+Nikhil Gupta,Joint Pain,Arthritis,Chronic Care
+Divya Menon,Severe Headache,Migraine,Observation
+Manish Yadav,Abdominal Pain,Acute Appendicitis,Emergency
+Isha Jain,Joint Pain,Arthritis,Chronic Care
+Arjun Desai,Back Pain,Arthritis,Under Treatment
+Divya Menon,Abdominal Pain,Acute Appendicitis,Emergency
+Nikhil Gupta,Back Pain,Arthritis,Under Treatment
+Arjun Desai,Thyroid Fatigue,Hypothyroidism,Chronic Care
+Siddharth Jain,Headache,Migraine,Under Treatment
+Varun Kapoor,Joint Pain,Arthritis,Chronic Care
+Arjun Desai,Abdominal Pain,Acute Appendicitis,Emergency
+Priya Patel,Headache,Migraine,Under Treatment
+Pallavi Patil,Fever,Pneumonia,Admitted
+Tarun Bansal,Severe Headache,Migraine,Observation
+Rohit Patil,Thyroid Fatigue,Hypothyroidism,Chronic Care

@@ -1,0 +1,201 @@
+Doctor,Specialty,Symptoms,Disease,Status,Fees
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
+Dr Rahul Deshmukh,Neurologist,joint pain swelling stiffness,Arthritis,ongoing,175392
+Dr Sneha Kulkarni,Pulmonologist,fever,Pneumonia,completed,111417
+Dr Priya Mehta,Dermatologist,rash itching redness,Arthritis,completed,80085
+Dr Priya Mehta,Dermatologist,fever cough breathing,Migraine,ongoing,30362
+Dr Sneha Kulkarni,Pulmonologist,headache dizziness,Migraine,completed,100417
+Dr Priya Mehta,Dermatologist,fever,Acute Kidney Stone,pending,26573
+Dr Sneha Kulkarni,Pulmonologist,joint pain swelling stiffness,Acute Kidney Stone,completed,36674
+Dr Sneha Kulkarni,Pulmonologist,rash itching redness,Migraine,ongoing,184498
+Dr Rahul Deshmukh,Neurologist,fatigue,Acute Appendicitis,pending,55367
+Dr Sneha Kulkarni,Pulmonologist,pain vomiting,Hypothyroidism,pending,137536
