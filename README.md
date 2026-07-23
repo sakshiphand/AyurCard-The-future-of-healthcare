@@ -278,3 +278,30 @@ AyurCard aims to create a **centralized, secure, and intelligent healthcare ecos
 Bachelor of Engineering – Computer Engineering
 
 ---
+
+---
+
+## 🔒 Copyright & Usage Restrictions
+
+© 2026 Sakshi Ramdas Phand. All Rights Reserved.
+
+This project, **AyurCard – The Future of Healthcare & Intelligent Medical System**, 
+is protected by copyright.
+
+The source code and associated materials are made publicly available on GitHub 
+for educational, academic, demonstration, and portfolio viewing purposes only.
+
+You may NOT, without prior written permission:
+
+- Copy or reproduce the source code
+- Modify and redistribute the project
+- Use the project or substantial portions of it in another project
+- Submit this project as your own academic work
+- Use the project for commercial purposes
+- Sell, sublicense, or redistribute the software
+
+Unauthorized reproduction, distribution, or commercial use is prohibited.
+
+For permission or collaboration requests, please contact the project owner.
+
+**Copyright © 2026 Sakshi Ramdas Phand. All Rights Reserved.**
