@@ -1,6 +1,6 @@
 # 🏥 AyurCard – The Future of Healthcare & Intelligent Medical System
 
-An **AI-powered Healthcare Management System** designed to centralize patient medical records, streamline doctor-patient interactions, and assist healthcare professionals through **Machine Learning-based acute and chronic disease prediction**.
+An **AI-powered Healthcare Management System** designed to centralize patient medical records, streamline doctor-patient interactions, and assist healthcare professionals through **Machine Learning-based disease prediction**.
 
 ---
 
@@ -8,256 +8,168 @@ An **AI-powered Healthcare Management System** designed to centralize patient me
 
 **AyurCard** is an intelligent healthcare platform that provides secure and centralized access to patient medical records through a unique **AyurCard ID**.
 
-The platform connects **Patients, Doctors, Medical Stores, and Administrators** while integrating Machine Learning to analyze patient symptoms and medical history for disease prediction.
-
----
-
-## 🏠 AyurCard Platform
-
-The AyurCard home page provides access to healthcare services, user registration, and administrative features.
+The platform connects **Patients, Doctors, Medical Stores, and Administrators** while integrating Machine Learning for acute and chronic disease prediction.
 
 ![AyurCard Home Page](./ss/Picture1.png)
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-### 👤 Patient Module
+### 👨‍⚕️ Doctor Registration
 
-* Patient Registration & Secure Login
+Doctors can register using their personal details, Aadhaar number, specialization, medical license number, and password.
+
+![Doctor Registration](./ss/Picture2.png)
+
+---
+
+### 👤 Patient Registration
+
+Patients can register using their personal details, Aadhaar number, phone number, and password.
+
+![Patient Registration](./ss/Picture4.png)
+
+---
+
+### 🔐 Secure Login
+
+Registered users can securely access the system using their Aadhaar number and password with role-based authentication.
+
+![Secure Login](./ss/Picture5.png)
+
+---
+
+## 👤 Patient Module
+
+Patients can:
+
 * View Complete Medical History
 * Book Doctor Appointments
 * View Previous Diagnoses & Prescriptions
 * Access AI Health Insights
 * Raise Complaints
 
-### 👨‍⚕️ Doctor Module
+### 🤖 AI Health Insights
 
-* Doctor Registration & Secure Login
+Patients can access AI-based health insights for acute and chronic disease prediction.
+
+![AI Health Insight](./ss/Picture6.png)
+
+### 📅 Doctor Appointment Booking
+
+Patients can search for doctors and book appointments according to their healthcare requirements.
+
+![Doctor Appointment Booking](./ss/Picture7.png)
+
+### 📋 Medical History
+
+All previous diagnoses, symptoms, treatments, doctors, consultation fees, and status are maintained using the unique **AyurCard ID**.
+
+![Patient Medical History](./ss/Picture8.png)
+
+---
+
+## 👨‍⚕️ Doctor Module
+
+Doctors can:
+
 * View Patient Appointment Requests
 * Access Patient Medical History using AyurCard ID
 * Enter Symptoms & Diagnosis Details
-* AI-assisted Disease Prediction
-* Add Treatment, Fees & Consultation Status
-* Maintain Patient Consultation Records
+* Generate AI-assisted Disease Predictions
+* Add Treatment & Consultation Details
+* Maintain Patient Medical Records
 
-### 💊 Medical Store Module
+![Doctor Module](./ss/Picture9.png)
+
+### 🧠 AI-Based Disease Prediction
+
+Doctors enter patient symptoms into the system. The Machine Learning model analyzes the information and predicts possible diseases along with their prediction probability.
+
+![AI Disease Prediction](./ss/Picture10.png)
+
+---
+
+## 💊 Medical Store Module
+
+Medical stores can:
 
 * Access Patient Prescriptions using AyurCard ID
 * Enter Medicine Prices
 * Record Recommended Medicine Intake Timings
 * Maintain Prescription Information
 
-### 🛡️ Admin Module
+---
 
-* Secure Admin Access
+## 🛡️ Admin Module
+
+Administrators can:
+
 * Manage Patients & Doctors
-* Monitor Patient Complaints
+* Monitor Complaints
 * Handle Complaint Resolution
 * Manage Healthcare Services
 
----
+### ⚠️ Complaint Management
 
-# 🛠️ Technology Stack
-
-### 💻 Frontend
-
-* React.js
-* HTML
-* CSS
-* JavaScript
-
-### ⚙️ Backend
-
-* Python
-* Flask
-* Node.js
-* Express.js
-* REST APIs
-
-### 🗄️ Database
-
-* MongoDB
-
-### 🤖 Machine Learning
-
-* Python
-* Scikit-learn
-* Pandas
-* NumPy
-* Random Forest
-* XGBoost
-
-### 🔐 Security
-
-* JWT Authentication
-* Role-Based Access
-
-### 🧰 Tools
-
-* VS Code
-* Git
-* GitHub
-* Postman
-
----
-
-# 📸 Project Implementation
-
-## 1️⃣ Doctor Registration
-
-Doctors can register on the AyurCard platform using their Aadhaar number, contact information, specialization, medical license number, and password.
-
-![Doctor Registration](./ss/Picture2.png)
-
----
-
-## 2️⃣ Patient Registration
-
-Patients can create their AyurCard account using their personal details, Aadhaar number, phone number, and password.
-
-![Patient Registration](./ss/Picture4.png)
-
----
-
-## 3️⃣ Secure Login
-
-Registered users can securely access AyurCard using their Aadhaar number and password with role-based authentication.
-
-![AyurCard Login](./ss/Picture5.png)
-
----
-
-## 4️⃣ AI Health Insight System
-
-The **AI Health Insight System** analyzes patient symptoms and medical history to predict possible diseases.
-
-It supports:
-
-* Acute Disease Prediction
-* Chronic Disease Prediction
-* Disease Classification
-* Risk Analysis
-* Healthcare Insights
-
-![AI Health Insight System](./ss/Picture6.png)
-
----
-
-## 5️⃣ Doctor Appointment Booking
-
-Patients can search for available doctors and book appointments according to their healthcare requirements.
-
-![Doctor Appointment Booking](./ss/Picture7.png)
-
----
-
-## 6️⃣ Patient Medical History
-
-Medical records are centrally maintained and linked with the patient's **AyurCard ID**.
-
-The system stores information such as:
-
-* Previous Symptoms
-* Diagnosed Diseases
-* Treatments
-* Consulting Doctor
-* Consultation Fees
-* Treatment Status
-
-![Patient Medical History](./ss/Picture8.png)
-
----
-
-## 7️⃣ Doctor Module
-
-Doctors can view recent patients, active cases, patient symptoms, diseases, treatment status, and consultation information.
-
-![Doctor Module](./ss/Picture9.png)
-
----
-
-## 8️⃣ AI-Based Disease Prediction
-
-Doctors can enter patient symptoms into the system.
-
-The Machine Learning system analyzes these symptoms and provides possible disease predictions along with the disease category and prediction probability.
-
-The doctor can then add treatment details and save the consultation record to the patient's medical history.
-
-![AI Disease Prediction](./ss/Picture10.png)
-
----
-
-## 9️⃣ Complaint Management
-
-Patients can raise complaints regarding healthcare services.
-
-The complaint is forwarded to the administrator, who can review the issue and take appropriate action.
+Patients can raise complaints regarding healthcare services. The administrator can review the complaint and take appropriate action.
 
 ![Complaint Management](./ss/Picture11.png)
 
 ---
 
-# 🤖 Machine Learning Implementation
+# 🤖 Machine Learning
 
-AyurCard uses Machine Learning to assist healthcare professionals in identifying possible diseases from patient symptoms and medical history.
+AyurCard uses Machine Learning to analyze patient symptoms and medical history for disease prediction.
 
-### 🌳 Random Forest
+### Acute Disease Prediction
 
-Random Forest combines multiple decision trees to generate stable disease predictions and reduce overfitting.
+The system analyzes the patient's recent diagnosis records to predict possible **short-term diseases**.
 
-### 🚀 XGBoost
+### Chronic Disease Prediction
 
-XGBoost builds decision trees sequentially, where each new tree attempts to correct errors made by previous trees.
+The system analyzes the patient's complete medical history to predict possible **long-term diseases**.
 
-### 🔄 ML Prediction Flow
+### Algorithms
 
-```text
-Patient Medical History
-        ↓
-Current Symptoms
-        ↓
-Data Preprocessing
-        ↓
-Machine Learning Model
-        ↓
-Random Forest / XGBoost
-        ↓
-Disease Prediction
-        ↓
-Acute / Chronic Classification
-        ↓
-AI Health Insight
-```
+* **Random Forest**
+* **XGBoost**
+
+### ML Libraries
+
+* Scikit-learn
+* Pandas
+* NumPy
+
+---
+
+# 🛠️ Technology Stack
+
+**Frontend:** React.js, HTML, CSS, JavaScript
+**Backend:** Python, Flask, Node.js, Express.js
+**Database:** MongoDB
+**Machine Learning:** Python, Scikit-learn, Pandas, NumPy, Random Forest, XGBoost
+**Security:** JWT Authentication, Role-Based Access
+**API:** REST APIs
+**Tools:** VS Code, Git, GitHub, Postman
 
 ---
 
 # 🔄 System Workflow
 
-```text
-Patient / Doctor Registration
-            ↓
-       Secure Login
-            ↓
-       AyurCard ID
-            ↓
-    Patient Appointment
-            ↓
-Doctor Fetches Medical History
-            ↓
- Doctor Enters Symptoms
-            ↓
-  AI Health Insight Engine
-            ↓
- Acute / Chronic Prediction
-            ↓
-Doctor Adds Diagnosis & Treatment
-            ↓
- Medical History Updated
-            ↓
-Patient Views Updated Records
-```
+1. Patient and Doctor register on the AyurCard platform.
+2. Users securely log in to the system.
+3. Patient books a doctor appointment.
+4. Doctor accesses patient medical history using **AyurCard ID**.
+5. Doctor enters current symptoms and diagnosis details.
+6. AI analyzes symptoms and medical history.
+7. Machine Learning models predict **acute and chronic diseases**.
+8. Doctor records diagnosis, treatment, prescription, and consultation details.
+9. Patient medical history is updated.
+10. Medical stores maintain medicine price and intake information.
+11. Patients can raise complaints.
+12. Admin manages complaints and healthcare services.
 
 ---
 
@@ -265,7 +177,7 @@ Patient Views Updated Records
 
 ## 📜 Government of India Copyright
 
-**AyurCard – AI-Powered Personalized Healthcare System** has received a **Copyright Registration from the Copyright Office, Government of India**, recognizing the original work and intellectual property associated with the project.
+**AyurCard – AI-Powered Personalized Healthcare System** has received a **Copyright Registration from the Copyright Office, Government of India**, recognizing the original work associated with the project.
 
 ![AyurCard Copyright Certificate](./ss/Screenshot%202026-06-24%20113451.png)
 
@@ -278,8 +190,6 @@ Research based on **AyurCard** was presented at the **Fourth International Confe
 ### 📄 Research Paper
 
 **“AyurCard: An AI-Driven Unified Healthcare Ecosystem for Centralized Medical Record Management and Intelligent Disease Prediction”**
-
-**Conference:** Fourth International Conference on Advances in Information, Telecommunication and Computing (AITC-2026)
 
 **Date:** June 27–28, 2026
 
@@ -304,14 +214,7 @@ The research work was **presented and approved for publication** at the conferen
 
 # 🎯 Project Objective
 
-The primary objective of **AyurCard** is to create a centralized and intelligent healthcare ecosystem that:
-
-* Maintains patient medical records in one place
-* Improves communication between patients and doctors
-* Provides AI-assisted disease prediction
-* Helps reduce repeated medical tests and misdiagnosis
-* Improves transparency in healthcare services
-* Supports better healthcare decision-making
+AyurCard aims to create a **centralized, secure, and intelligent healthcare ecosystem** that improves access to patient medical records, supports AI-assisted disease prediction, and improves coordination between patients, doctors, medical stores, and administrators.
 
 ---
 
