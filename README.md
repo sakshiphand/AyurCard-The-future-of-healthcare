@@ -16,7 +16,7 @@ The platform connects **Patients, Doctors, Medical Stores, and Administrators** 
 
 The AyurCard home page provides access to healthcare services, user registration, and administrative features.
 
-![AyurCard Home Page](Picture1.png)
+![AyurCard Home Page](./ss/Picture1.png)
 
 ---
 
@@ -58,7 +58,7 @@ The AyurCard home page provides access to healthcare services, user registration
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
 ### 💻 Frontend
 
@@ -108,7 +108,7 @@ The AyurCard home page provides access to healthcare services, user registration
 
 Doctors can register on the AyurCard platform using their Aadhaar number, contact information, specialization, medical license number, and password.
 
-![Doctor Registration](Picture2.png)
+![Doctor Registration](./ss/Picture2.png)
 
 ---
 
@@ -116,7 +116,7 @@ Doctors can register on the AyurCard platform using their Aadhaar number, contac
 
 Patients can create their AyurCard account using their personal details, Aadhaar number, phone number, and password.
 
-![Patient Registration](Picture4.png)
+![Patient Registration](./ss/Picture4.png)
 
 ---
 
@@ -124,7 +124,7 @@ Patients can create their AyurCard account using their personal details, Aadhaar
 
 Registered users can securely access AyurCard using their Aadhaar number and password with role-based authentication.
 
-![AyurCard Login](Picture5.png)
+![AyurCard Login](./ss/Picture5.png)
 
 ---
 
@@ -140,7 +140,7 @@ It supports:
 * Risk Analysis
 * Healthcare Insights
 
-![AI Health Insight System](Picture6.png)
+![AI Health Insight System](./ss/Picture6.png)
 
 ---
 
@@ -148,7 +148,7 @@ It supports:
 
 Patients can search for available doctors and book appointments according to their healthcare requirements.
 
-![Doctor Appointment Booking](Picture7.png)
+![Doctor Appointment Booking](./ss/Picture7.png)
 
 ---
 
@@ -165,7 +165,7 @@ The system stores information such as:
 * Consultation Fees
 * Treatment Status
 
-![Patient Medical History](Picture8.png)
+![Patient Medical History](./ss/Picture8.png)
 
 ---
 
@@ -173,7 +173,7 @@ The system stores information such as:
 
 Doctors can view recent patients, active cases, patient symptoms, diseases, treatment status, and consultation information.
 
-![Doctor Module](Picture9.png)
+![Doctor Module](./ss/Picture9.png)
 
 ---
 
@@ -185,7 +185,7 @@ The Machine Learning system analyzes these symptoms and provides possible diseas
 
 The doctor can then add treatment details and save the consultation record to the patient's medical history.
 
-![AI Disease Prediction](Picture10.png)
+![AI Disease Prediction](./ss/Picture10.png)
 
 ---
 
@@ -195,7 +195,7 @@ Patients can raise complaints regarding healthcare services.
 
 The complaint is forwarded to the administrator, who can review the issue and take appropriate action.
 
-![Complaint Management](Picture11.png)
+![Complaint Management](./ss/Picture11.png)
 
 ---
 
@@ -203,15 +203,15 @@ The complaint is forwarded to the administrator, who can review the issue and ta
 
 AyurCard uses Machine Learning to assist healthcare professionals in identifying possible diseases from patient symptoms and medical history.
 
-### Random Forest
+### 🌳 Random Forest
 
 Random Forest combines multiple decision trees to generate stable disease predictions and reduce overfitting.
 
-### XGBoost
+### 🚀 XGBoost
 
 XGBoost builds decision trees sequentially, where each new tree attempts to correct errors made by previous trees.
 
-### Prediction Flow
+### 🔄 ML Prediction Flow
 
 ```text
 Patient Medical History
@@ -265,17 +265,15 @@ Patient Views Updated Records
 
 ## 📜 Government of India Copyright
 
-The project **“AyurCard: AI-Powered Personalized Healthcare System”** has received copyright registration from the **Copyright Office, Government of India**.
+**AyurCard – AI-Powered Personalized Healthcare System** has received a **Copyright Registration from the Copyright Office, Government of India**, recognizing the original work and intellectual property associated with the project.
 
-This recognizes the original work and intellectual property associated with the AyurCard healthcare system.
-
-![AyurCard Copyright Certificate](Screenshot%202026-06-24%20113451.png)
+![AyurCard Copyright Certificate](./ss/Screenshot%202026-06-24%20113451.png)
 
 ---
 
 ## 🎓 International Conference – AITC 2026
 
-Research based on AyurCard was presented at the **Fourth International Conference on Advances in Information, Telecommunication and Computing (AITC-2026)**.
+Research based on **AyurCard** was presented at the **Fourth International Conference on Advances in Information, Telecommunication and Computing (AITC-2026)**.
 
 ### 📄 Research Paper
 
@@ -285,9 +283,9 @@ Research based on AyurCard was presented at the **Fourth International Conferenc
 
 **Date:** June 27–28, 2026
 
-The research paper was **presented and approved for publication** at the conference.
+The research work was **presented and approved for publication** at the conference.
 
-![AITC 2026 Certificate of Presentation and Publication](AITC2026-346.jpg.jpeg)
+![AITC 2026 Certificate](./ss/AITC2026-346.jpg.jpeg)
 
 ---
 
