@@ -244,7 +244,7 @@ Research based on **AyurCard** was presented at the **Fourth International Confe
 
 The research work was **presented and approved for publication** at the conference.
 
-![AITC 2026 Certificate of Presentation and Publication](./screenshots/AITC2026-346.jpg.jpeg)
+![AyurCard Copyright Certificate](./screenshots/Screenshot%202026-06-24%20113451.png)
 
 ---
 
