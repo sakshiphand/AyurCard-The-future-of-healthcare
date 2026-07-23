@@ -225,7 +225,7 @@ XGBoost sequentially builds decision trees where each new tree improves errors f
 **AyurCard – AI-Powered Personalized Healthcare System** has received **Copyright Registration from the Copyright Office, Government of India**, recognizing the original work and intellectual property associated with the project.
 
 ```md
-![AyurCard Copyright Certificate](./Screenshot 2026-06-24 113451.png)
+![AyurCard Copyright Certificate](./screenshots/Screenshot%202026-06-24%20113451.png)
 ```
 
 ---
@@ -244,7 +244,7 @@ Research based on **AyurCard** was presented at the **Fourth International Confe
 
 The research work was **presented and approved for publication** at the conference.
 
-![AyurCard Copyright Certificate](./screenshots/Screenshot%202026-06-24%20113451.png)
+![AITC 2026 Certificate of Presentation and Publication](./screenshots/AITC2026-346.jpg.jpeg)
 
 ---
 
