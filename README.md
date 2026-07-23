@@ -1,6 +1,6 @@
 # 🏥 AyurCard – The Future of Healthcare & Intelligent Medical System
 
-An **AI-powered Healthcare Management System** designed to centralize patient medical records, streamline doctor-patient interactions, and assist healthcare professionals through **Machine Learning-based disease prediction**.
+An **AI-powered Healthcare Management System** designed to centralize patient medical records, streamline doctor-patient interactions, and assist healthcare professionals through **Machine Learning-based acute and chronic disease prediction**.
 
 ---
 
@@ -8,9 +8,9 @@ An **AI-powered Healthcare Management System** designed to centralize patient me
 
 **AyurCard** is an intelligent healthcare platform that provides secure and centralized access to patient medical records through a unique **AyurCard ID**.
 
-The platform connects **Patients, Doctors, Medical Stores, and Administrators** while integrating Machine Learning for acute and chronic disease prediction.
+The platform connects **Patients, Doctors, Medical Stores, and Administrators** while integrating Machine Learning for intelligent disease prediction and healthcare assistance.
 
-![AyurCard Home Page](./Screenshots/Picture1.png)
+![AyurCard Home Page](./screenshots/Picture1.png)
 
 ---
 
@@ -18,25 +18,25 @@ The platform connects **Patients, Doctors, Medical Stores, and Administrators** 
 
 ### 👨‍⚕️ Doctor Registration
 
-Doctors can register using their personal details, Aadhaar number, specialization, medical license number, and password.
+Doctors can register using their Aadhaar number, contact details, specialization, medical license number, and password.
 
-![Doctor Registration](./Screenshots/Picture2.png)
+![Doctor Registration](./screenshots/Picture2.png)
 
 ---
 
 ### 👤 Patient Registration
 
-Patients can register using their personal details, Aadhaar number, phone number, and password.
+Patients can create their AyurCard account using their personal details, Aadhaar number, phone number, and password.
 
-![Patient Registration](./Screenshots/Picture4.png)
+![Patient Registration](./screenshots/Picture4.png)
 
 ---
 
 ### 🔐 Secure Login
 
-Registered users can securely access the system using their Aadhaar number and password with role-based authentication.
+Registered users can securely access the system using their Aadhaar number and password with **role-based authentication**.
 
-![Secure Login](./Screenshots/Picture5.png)
+![Secure Login](./screenshots/Picture5.png)
 
 ---
 
@@ -52,21 +52,30 @@ Patients can:
 
 ### 🤖 AI Health Insights
 
-Patients can access AI-based health insights for acute and chronic disease prediction.
+The AI Health Insight System analyzes patient symptoms and medical records to provide intelligent disease predictions.
 
-![AI Health Insight](./Screenshots/Picture6.png)
+![AI Health Insight System](./screenshots/Picture6.png)
 
 ### 📅 Doctor Appointment Booking
 
 Patients can search for doctors and book appointments according to their healthcare requirements.
 
-![Doctor Appointment Booking](./Screenshots/Picture7.png)
+![Doctor Appointment Booking](./screenshots/Picture7.png)
 
 ### 📋 Patient Medical History
 
-All previous diagnoses, symptoms, treatments, doctors, consultation fees, and status are maintained using the unique **AyurCard ID**.
+Medical records are centrally maintained using the patient's unique **AyurCard ID**.
 
-![Patient Medical History](./Screenshots/Picture8.png)
+The system stores:
+
+- Previous Symptoms
+- Diagnosed Diseases
+- Treatments
+- Consulting Doctors
+- Consultation Fees
+- Treatment Status
+
+![Patient Medical History](./screenshots/Picture8.png)
 
 ---
 
@@ -81,13 +90,15 @@ Doctors can:
 - Add Treatment & Consultation Details
 - Maintain Patient Medical Records
 
-![Doctor Module](./Screenshots/Picture9.png)
+![Doctor Module](./screenshots/Picture9.png)
 
 ### 🧠 AI-Based Disease Prediction
 
-Doctors enter patient symptoms into the system. The Machine Learning model analyzes the information and predicts possible diseases along with their prediction probability.
+Doctors enter patient symptoms into the system. The Machine Learning system analyzes the symptoms and medical history to predict possible diseases along with their prediction probability.
 
-![AI Disease Prediction](./Screenshots/Picture10.png)
+The doctor can then add treatment details and save the consultation record to the patient's medical history.
+
+![AI Disease Prediction](./screenshots/Picture10.png)
 
 ---
 
@@ -99,6 +110,9 @@ Medical stores can:
 - Enter Medicine Prices
 - Record Recommended Medicine Intake Timings
 - Maintain Prescription Information
+- Help patients track medicine dosage and intake timings
+
+The medicine intake tracking feature is especially useful for **elderly patients who may forget to take medicines on time**.
 
 ---
 
@@ -110,31 +124,35 @@ Administrators can:
 - Monitor Patient Complaints
 - Handle Complaint Resolution
 - Manage Healthcare Services
+- Maintain accountability within the healthcare system
 
 ### ⚠️ Complaint Management
 
-Patients can raise complaints regarding healthcare services. The administrator can review the complaint and take appropriate action.
+Patients can raise complaints regarding doctors or healthcare services. The administrator reviews the complaint, communicates with the concerned party, and updates the resolution status.
 
-![Complaint Management](./Screenshots/Picture11.png)
+![Complaint Management](./screenshots/Picture11.png)
 
 ---
 
-## 🤖 Machine Learning
+## 🤖 Machine Learning Implementation
 
 AyurCard uses Machine Learning to analyze patient symptoms and medical history for disease prediction.
 
-### Acute Disease Prediction
+### 🔹 Acute Disease Prediction
 
-The system analyzes the patient's recent diagnosis records to predict possible **short-term diseases**.
+The system analyzes the patient's **recent diagnosis records** to predict possible short-term diseases.
 
-### Chronic Disease Prediction
+### 🔹 Chronic Disease Prediction
 
-The system analyzes the patient's complete medical history to predict possible **long-term diseases**.
+The system analyzes the patient's **complete medical history** to predict possible long-term diseases.
 
-### Algorithms
+### 🌳 Random Forest
 
-- **Random Forest**
-- **XGBoost**
+Random Forest combines multiple decision trees to provide stable disease predictions and reduce overfitting.
+
+### 🚀 XGBoost
+
+XGBoost sequentially builds decision trees where each new tree improves errors from previous predictions.
 
 ### ML Libraries
 
@@ -186,30 +204,35 @@ The system analyzes the patient's complete medical history to predict possible *
 
 1. Patient and Doctor register on the AyurCard platform.
 2. Users securely log in to the system.
-3. Patient books a doctor appointment.
-4. Doctor accesses patient medical history using **AyurCard ID**.
-5. Doctor enters current symptoms and diagnosis details.
-6. AI analyzes symptoms and medical history.
-7. Machine Learning models predict **acute and chronic diseases**.
-8. Doctor records diagnosis, treatment, prescription, and consultation details.
-9. Patient medical history is updated.
-10. Medical stores maintain medicine price and intake information.
-11. Patients can raise complaints.
-12. Admin manages complaints and healthcare services.
+3. Medical records are linked with the patient's **AyurCard ID**.
+4. Patient books an appointment with a doctor.
+5. Doctor accesses the patient's medical history using AyurCard ID.
+6. Doctor enters symptoms and diagnosis details.
+7. AI analyzes symptoms and patient medical history.
+8. Machine Learning models predict possible **acute and chronic diseases**.
+9. Doctor adds diagnosis, treatment, prescription, fees, and consultation status.
+10. Patient medical history is updated.
+11. Medical stores maintain medicine price and intake information.
+12. Patients can raise complaints regarding healthcare services.
+13. Admin reviews and manages complaints.
 
 ---
 
-# 🏆 Project Recognition & Achievements
+## 🏆 Project Recognition & Achievements
 
-## 📜 Government of India Copyright
+### 📜 Government of India Copyright
 
-**AyurCard – AI-Powered Personalized Healthcare System** has received **Copyright Registration from the Copyright Office, Government of India**, recognizing the original work associated with the project.
+**AyurCard – AI-Powered Personalized Healthcare System** has received **Copyright Registration from the Copyright Office, Government of India**, recognizing the original work and intellectual property associated with the project.
 
-![AyurCard Copyright Certificate](./Screenshots/Screenshot%202026-06-24%20113451.png)
+> Add your copyright certificate screenshot here using its exact filename:
+
+```md
+![AyurCard Copyright Certificate](./screenshots/YOUR-COPYRIGHT-CERTIFICATE-FILENAME.png)
+```
 
 ---
 
-## 🎓 International Conference – AITC 2026
+### 🎓 International Conference – AITC 2026
 
 Research based on **AyurCard** was presented at the **Fourth International Conference on Advances in Information, Telecommunication and Computing (AITC-2026)**.
 
@@ -223,7 +246,7 @@ Research based on **AyurCard** was presented at the **Fourth International Confe
 
 The research work was **presented and approved for publication** at the conference.
 
-![AITC 2026 Certificate of Presentation & Publication](./Screenshots/AITC2026-346.jpg.jpeg)
+![AITC 2026 Certificate of Presentation and Publication](./screenshots/AITC2026-346.jpg.jpeg)
 
 ---
 
@@ -245,7 +268,7 @@ The research work was **presented and approved for publication** at the conferen
 AyurCard aims to create a **centralized, secure, and intelligent healthcare ecosystem** that:
 
 - Maintains patient medical records in one place
-- Improves communication between patients and doctors
+- Improves doctor-patient interaction
 - Provides AI-assisted disease prediction
 - Helps reduce repeated medical tests and misdiagnosis
 - Improves transparency in healthcare services
@@ -259,7 +282,3 @@ AyurCard aims to create a **centralized, secure, and intelligent healthcare ecos
 Bachelor of Engineering – Computer Engineering
 
 ---
-
-## ⭐ Support
-
-If you found **AyurCard** useful or interesting, consider giving this repository a **⭐ Star**.
