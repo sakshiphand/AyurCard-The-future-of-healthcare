@@ -279,11 +279,9 @@ Bachelor of Engineering – Computer Engineering
 
 ---
 
----
-
 ## 🔒 Copyright & Usage Restrictions
 
-© 2026 Sakshi Ramdas Phand. All Rights Reserved.
+© 2025 Sakshi Ramdas Phand. All Rights Reserved.
 
 This project, **AyurCard – The Future of Healthcare & Intelligent Medical System**, 
 is protected by copyright.
@@ -304,4 +302,4 @@ Unauthorized reproduction, distribution, or commercial use is prohibited.
 
 For permission or collaboration requests, please contact the project owner.
 
-**Copyright © 2026 Sakshi Ramdas Phand. All Rights Reserved.**
+**Copyright © 2025 Sakshi Ramdas Phand. All Rights Reserved.**
